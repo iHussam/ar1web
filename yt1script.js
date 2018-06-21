@@ -1,4 +1,4 @@
-var alternative='As a alternative you can try to search on <a href="https://h2mp3.com/" target="_blank" rel="nofollow">h2MP3.com</a> and download it from there.</span><span><a href="">Please try to convert another YouTube video by clicking here</a>';
+var alternative='As a alternative you can try to search on <a href="https://www.ar1web.co/" target="_blank" rel="nofollow">ar1web.co</a> and download it from there.</span><span><a href="">Please try to convert another YouTube video by clicking here</a>';
 var progress=['starting','checking video','start download','downloading','start convert','converting'];
 var e={
 "insert":"Please insert video URL",
